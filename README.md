@@ -1,6 +1,6 @@
 <tr>
     <td align="center">
-      <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-DH-Cong-Nghe-Thong-Tin-UIT.png", width ="300">
+      <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-DH-Cong-Nghe-Thong-Tin-UIT.png", width ="250">
     </td>
 </tr>
 
