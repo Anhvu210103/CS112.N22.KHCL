@@ -1,11 +1,13 @@
-<tr>
-    <td align="center">
-      <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-DH-Cong-Nghe-Thong-Tin-UIT.png", width ="250">
-    </td>
-</tr>
-
+<p align="center">
+   <a href="https://www.uit.edu.vn/">
+      <img src="https://i.imgur.com/WmMnSRt.png" border="none">
+   </a>
+</p>
 
 # [CS112.N22.KHCL] - THUẬT TOÁN THAM LAM
+
+**Giảng viên : Thầy Nguyễn Thanh Sơn**
+
 | Thành viên  | Mã số |
 | ------------- |:-------------:|
 | Nguyễn Dương Quốc Anh    | 21521829     |
