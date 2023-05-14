@@ -1,4 +1,10 @@
-![Logo_UIT_Web-218x261](https://github.com/Anhvu210103/CS112.N22.KHCL/assets/130722620/0d43f7d6-3cb1-401f-a194-98d956a5aecc)
+<tr>
+    <td align="center">
+      <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-DH-Cong-Nghe-Thong-Tin-UIT.png", width ="300">
+    </td>
+</tr>
+
+
 # [CS112.N22.KHCL] - THUẬT TOÁN THAM LAM
 | Thành viên  | Mã số |
 | ------------- |:-------------:|
