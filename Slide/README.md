@@ -1,1 +1,0 @@
-Slide về giải thuật
